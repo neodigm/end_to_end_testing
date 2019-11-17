@@ -23,3 +23,15 @@
 //
 // -- This is will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
+
+Cypress.Commands.add("tt_SignIn", (email, password)=>{
+    cy.visit( Cypress.env( "e2e_url_login" ) + "?p=logout" )
+    cy.clearCookies()
+    cy.get("#login-form > div > div:nth-child(1) > div > div:nth-child(1) > input")
+    .then( ($Email) => {
+        cy.wrap( $Email ).type( email );
+    } )
+    .type( "{selectall}{backspace}" + email )
+    cy.get("input[name=password]" ).type( "{selectall}{backspace}" + password )
+    cy.get("#login-form").submit()
+});
