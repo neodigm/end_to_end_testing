@@ -1,4 +1,4 @@
-# end_to_end_testing
+# End to End Testing
 Software Quality achieved through End to End testing, including responsive, API integration, visual regression, and smoke.
 
 [Contact](https://www.arcanus55.com/) | 
@@ -9,4 +9,5 @@ Software Quality achieved through End to End testing, including responsive, API 
 [NPM](https://www.npmjs.com/~arcanus55) | 
 [Github](https://github.com/arcanus55) | 
 [Reddit](https://www.reddit.com/user/arcanus55) | 
-[Medium](https://medium.com/@arcanus55)
+[Medium](https://medium.com/@arcanus55) |
+[Can You Keep a Secret](https://www.google.com/search?q=Arcanus+55,+Inc.&ludocid=15843695733536445910#lkt=LocalPoiPosts&lpstate=pid:3643560408532939697&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:15843695733536445910)
