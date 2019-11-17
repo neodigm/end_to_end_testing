@@ -1,7 +1,7 @@
 {
   "name": "end_to_end_testing",
   "version": "1.0.0",
-  "description": "Software Quality achieved through End to End testing, including responsive, API integration, visual regressing, and smoke.",
+  "description": "Software Quality achieved through End to End testing, including responsive, API integration, visual regression, and smoke.",
   "main": "index.js",
   "scripts": {
     "test": "cypress run"
