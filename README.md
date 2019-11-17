@@ -1,6 +1,6 @@
 # Ground Breaking End to End Testing
 
-**Software Quality achieved through End to End testing, including responsive, API integration, visual regression, and smoke.
+Software Quality achieved through End to End testing, including responsive, API integration, visual regression, and smoke.
 
 I've invested a few days into aggressively exploiting this test runner to *stabilize and expand* test coverage.
 
