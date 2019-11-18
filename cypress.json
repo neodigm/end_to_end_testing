@@ -1,6 +1,6 @@
 {
     "integrationFolder": "cypress/test_specs",
-    "testFiles": "**/task*.*",
+    "testFiles": "**/task_create*.*",
     "execTimeout": 60000,
     "taskTimeout": 60000,
     "defaultCommandTimeout": 260000,
@@ -10,49 +10,11 @@
     "videoCompression": 32,
     "videoUploadOnPasses": true,
     "pluginsFile": "cypress/plugins/index.js",
-    "env_prod_qa": {
-      "mock_email": "scott@optionstravel.com",
-      "mock_password": "Welcome1",
-      "agent_email": "agent@tempotrip.com",
-      "agent_password": "Welcome1",
-      "integration_url_api": "https://api.militarytogo.dev/api/",
-      "e2e_url_api": "https://api.militarytogo.com/",
-      "e2e_url_booking": "https://20190528-547.tempotrip.dev/",
-      "e2e_url_cdn": "https://cdn.tempotrip.dev",
-      "e2e_url_events": "https://197-events.tempotrip.dev/",
-      "e2e_url_home": "https://scott.home.tempotrip.dev",
-      "e2e_url_hotels": "https://hotels.tempotrip.dev",
-      "e2e_url_login": "https://login.tempotrip.dev",
-      "e2e_url_profile": "https://791527789619-profile.tempotrip.dev"
-    },
     "env": {
-      "mock_email": "scott@optionstravel.com",
-      "mock_password": "Welcome1",
-      "agent_email": "agent@tempotrip.com",
-      "agent_password": "Welcome1",
-      "integration_url_api": "http://api.militarytogo.com/api/",
-      "e2e_url_api": "http://api.militarytogo.com/",
-      "e2e_url_booking": "http://20190430-430.tempotrip.com",
-      "e2e_url_cdn": "http://cdn.tempotrip.com",
-      "e2e_url_events": "http://scott.events.sk.optionstravel.com",
-      "e2e_url_home": "http://scott.home.tempotrip.com",
-      "e2e_url_hotels": "http://hotels.tempotrip.com",
-      "e2e_url_login": "http://scott.login.sk.optionstravel.com/",
-      "e2e_url_profile": "http://791527789619-profile.tempotrip.com"
-    },
-    "env_dev": {
-      "mock_email": "scott@optionstravel.com",
-      "mock_password": "Welcome1",
-      "agent_email": "agent@optionstravel.com",
-      "agent_password": "Welcome1",
-      "integration_url_api": "http://scott.api.sk.optionstravel.com/api/",
-      "e2e_url_api": "http://scott.api.sk.optionstravel.com",
-      "e2e_url_booking": "http://scott.booking.sk.optionstravel.com",
-      "e2e_url_cdn": "http://scott.cdn.sk.optionstravel.com",
-      "e2e_url_events": "http://scott.events.sk.optionstravel.com",
-      "e2e_url_home": "http://scott.home.sk.optionstravel.com",
-      "e2e_url_hotels": "http://scott.hotels.sk.optionstravel.com",
-      "e2e_url_login": "http://scott.login.sk.optionstravel.com",
-      "e2e_url_profile": "http://scott.profile.sk.optionstravel.com"
+      "mock_email": "eCommE2E4@LTDCommodities.com",
+      "mock_password": "passw0rd1",
+      "e2e_url_home": "https://stage.lakeside.com/homels",
+      "e2e_url_myaccount": "https://stage.lakeside.com/my_account/index.jsp?siteId=LS&DPSLogout=true",
+      "e2e_url_wishlist": "https://stage.lakeside.com/wishlist"
     }
   }
