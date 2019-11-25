@@ -20,6 +20,12 @@ FAQ
 Refer a Friend
 PIO
 Debug Page?
+
+Ping all instances (old EPSG cookie logic)
+test mouseflow
+test tealium
+test facebook
+
          */
         Cypress.on('uncaught:exception', (err, runnable) => { return false }); // ignore CORS
         it('Success Account Validated and Saved', () => {
