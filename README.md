@@ -1,3 +1,5 @@
+[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
+
 # Ground Breaking End to End Testing
 
 Software Quality achieved through End to End testing, including responsive, API integration, visual regression, and smoke.
