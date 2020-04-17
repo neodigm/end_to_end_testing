@@ -15,6 +15,7 @@ So far ...
 * Test responsive layout behavior
 
 [Contact](https://www.arcanus55.com/) | 
+[Blog](https://www.theScottKrause.com/WebAssembly) |
 [Google Store](https://chrome.google.com/webstore/detail/arcanus-55-on-screen-virt/mihhlebmndngilcmhkcedaldhpmcapic) | 
 [LinkedIn](https://www.linkedin.com/company/arcanus-55/) | 
 [Twitter](https://twitter.com/arcanus_55) | 
