@@ -14,14 +14,19 @@ So far ...
 * Create custom reusable, and chainable commands, such as **cy.signIn()** or **cy.turnOnFeature()**
 * Test responsive layout behavior
 
-[Contact](https://www.arcanus55.com/) | 
-[Blog](https://www.theScottKrause.com/WebAssembly) |
-[Google Store](https://chrome.google.com/webstore/detail/arcanus-55-on-screen-virt/mihhlebmndngilcmhkcedaldhpmcapic) | 
-[LinkedIn](https://www.linkedin.com/company/arcanus-55/) | 
-[Twitter](https://twitter.com/arcanus_55) | 
-[Pinterest](https://www.pinterest.com/arcanus55/) | 
-[NPM](https://www.npmjs.com/~arcanus55) | 
-[Github](https://github.com/arcanus55) | 
-[Reddit](https://www.reddit.com/user/arcanus55) | 
-[Medium](https://medium.com/@arcanus55) |
-[Can You Keep a Secret](https://www.google.com/search?q=Arcanus+55,+Inc.&ludocid=15843695733536445910#lkt=LocalPoiPosts&lpstate=pid:3643560408532939697&trex=m_t:lcl_akp,rc_f:nav,rc_ludocids:15843695733536445910)
+#
+![](https://repository-images.githubusercontent.com/178555357/2b6ad880-7aa0-11ea-8dde-63e70187e3e9)
+#
+[Portfolio Blog](https://www.theScottKrause.com) |
+[NPM](https://www.npmjs.com/~neodigm) |
+[Github](https://github.com/neodigm) |
+[LinkedIn](https://www.linkedin.com/in/neodigm24/) |
+[Salesforce](https://trailblazer.me/id/skrause) |
+[Code Pen](https://codepen.io/neodigm24) |
+[Machvive](https://machvive.com/) |
+[Arcanus 55](https://www.arcanus55.com/) |
+[Repl](https://repl.it/@neodigm) |
+[Twitter](https://twitter.com/neodigm24) |
+[Keybase](https://keybase.io/neodigm)
+#
+
