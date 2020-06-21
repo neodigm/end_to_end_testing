@@ -27,6 +27,7 @@ So far ...
 [Arcanus 55](https://www.arcanus55.com/) |
 [Repl](https://repl.it/@neodigm) |
 [Twitter](https://twitter.com/neodigm24) |
-[Keybase](https://keybase.io/neodigm)
+[Keybase](https://keybase.io/neodigm) |
+[W3C](https://www.w3.org/users/123844)
 #
 
