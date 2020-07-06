@@ -30,4 +30,3 @@ So far ...
 [Keybase](https://keybase.io/neodigm) |
 [W3C](https://www.w3.org/users/123844)
 #
-
