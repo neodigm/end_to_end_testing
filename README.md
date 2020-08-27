@@ -10,7 +10,7 @@ So far ...
 * Automatically capture a video when a test fails
 * Apply optional configuration files via the command line. This will allow us to change environments easily (requires v3.6).
 * Test globals like system_output
-* Test values persisted in the **Vuex (Vue.js specific)** store
+* Test values persisted in the **Vuex (Vue.js Vuex specific)** store
 * Create custom reusable, and chainable commands, such as **cy.signIn()** or **cy.turnOnFeature()**
 * Test responsive layout behavior
 
