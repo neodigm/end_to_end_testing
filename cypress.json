@@ -1,7 +1,7 @@
 {
     "integrationFolder": "cypress/test_specs",
     "testFiles": "**/task_create*.*",
-    "execTimeout": 60000,
+    "execTimeout": 80000,
     "taskTimeout": 60000,
     "defaultCommandTimeout": 260000,
     "pageLoadTimeout": 260000,
@@ -15,6 +15,7 @@
       "mock_password": "passw0rd1",
       "e2e_url_home": "https://stage.lakeside.com/homels",
       "e2e_url_myaccount": "https://stage.lakeside.com/my_account/index.jsp?siteId=LS&DPSLogout=true",
-      "e2e_url_wishlist": "https://stage.lakeside.com/wishlist"
+      "e2e_url_wishlist": "https://stage.lakeside.com/wishlist",
+      "e2e_url_offline": "service_worker.js"
     }
   }
