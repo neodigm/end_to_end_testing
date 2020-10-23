@@ -11,6 +11,9 @@
     "url": "git+https://github.com/neodigm/end_to_end_testing.git"
   },
   "keywords": [
+    "Quality",
+    "TypeScript",
+    "TDD",
     "cypress",
     "test",
     "jest",
