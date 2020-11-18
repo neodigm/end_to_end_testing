@@ -31,7 +31,7 @@ I've invested a few days into aggressively exploiting this test runner to *stabi
 [Machvive](https://machvive.com/) |
 [Arcanus 55](https://www.arcanus55.com/?trusted55=A55PV2) |
 [Repl](https://repl.it/@neodigm) |
-[Twitter](https://twitter.com/neodigm24) |
+[Twitter](https://twitter.com/neodigm55) |
 [Keybase](https://keybase.io/neodigm) |
 [Docker](https://hub.docker.com/u/neodigm) |
 [W3C](https://www.w3.org/users/123844)
