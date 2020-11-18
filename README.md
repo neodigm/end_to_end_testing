@@ -5,6 +5,8 @@
 Software Quality achieved through End to End testing, including responsive, API integration, visual regression, and smoke.
 
 I've invested a few days into aggressively exploiting this test runner to *stabilize and expand* test coverage.
+
+
 <details>
   <summary>So far ...</summary>
     <ol>
@@ -16,6 +18,8 @@ I've invested a few days into aggressively exploiting this test runner to *stabi
       <li>Test responsive layout behavior</li>
       <ol>
 </details>
+      
+      
 ![](https://repository-images.githubusercontent.com/178555357/2b6ad880-7aa0-11ea-8dde-63e70187e3e9)
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
