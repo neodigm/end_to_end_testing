@@ -24,7 +24,7 @@ describe('E2E test | Hotel navigation, selection, and discovery', () => {
     context('Admin Add Hotel to Event', function () {
         Cypress.on('uncaught:exception', (err, runnable) => { return false }); // ignore CORS
         it('Success Login then Save Event', () => {
-            cy.viewport(1066, 600)  //  large laptop 66.563em 
+            cy.viewport(1066, 600)  //  large laptop 66.524em 
             cy.log( JSON.stringify(Cypress.env()) )
             let event_url;  //  The URL of the first event (default)
             let dMessage = new Date();  //  Now
