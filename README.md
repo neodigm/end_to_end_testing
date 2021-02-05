@@ -18,6 +18,15 @@ I've invested a few days into aggressively exploiting this test runner to *stabi
       <li>Test responsive layout behavior</li>
       <ol>
 </details>
+
+<details>
+  <summary>So far ...</summary>
+  <p align="center">
+  <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvd.svg" width="44" alt="Renaissance Man Weaponeered">
+  <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="44" alt="Clockwork Clever Tricknology">
+  <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Vivid Vector Skulduggery">
+  </p>
+</details>
       
 ```javascript
 describe('E2E test | Hotel navigation, selection, and discovery', () => {
