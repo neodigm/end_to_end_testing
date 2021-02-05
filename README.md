@@ -18,7 +18,6 @@ I've invested a few days into aggressively exploiting this test runner to *stabi
       <li>Test responsive layout behavior</li>
       <ol>
 </details>
-
 <details>
   <summary>
     <p align="center">
