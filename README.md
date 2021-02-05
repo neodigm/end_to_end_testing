@@ -20,20 +20,22 @@ I've invested a few days into aggressively exploiting this test runner to *stabi
 </details>
 
 <details>
-  <summary>END 2 END</summary>
-  <p align="center">
-    <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="44" alt="Renaissance Man Weaponeered">
-    <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg" width="44" alt="Clockwork Clever Tricknology">
-    <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="44" alt="Vivid Vector Skulduggery">
-     <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvspace.svg" width="44" alt="Renaissance Man Weaponeered">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvq.svg" width="44" alt="Clockwork Clever Tricknology">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="44" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Clockwork Clever Tricknology">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Clockwork Clever Tricknology">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Vivid Vector Skulduggery">
-<img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="44" alt="Vivid Vector Skulduggery">
-  </p>
+  <summary>
+    <p align="center">
+      <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="44" alt="Renaissance Man Weaponeered">
+      <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vv2.svg" width="44" alt="Clockwork Clever Tricknology">
+      <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vve.svg" width="44" alt="Vivid Vector Skulduggery">
+    </p>
+   </summary>
+      <p align="center">
+        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvq.svg" width="44" alt="Clockwork Clever Tricknology">
+        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="44" alt="Vivid Vector Skulduggery">
+        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Clockwork Clever Tricknology">
+        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Vivid Vector Skulduggery">
+        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Clockwork Clever Tricknology">
+        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Vivid Vector Skulduggery">
+        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="44" alt="Vivid Vector Skulduggery">
+      </p>
 </details>
       
 ```javascript
