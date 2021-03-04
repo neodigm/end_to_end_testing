@@ -35,6 +35,7 @@ I've invested a few days into aggressively exploiting this test runner to *stabi
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Vivid Vector Skulduggery">
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="44" alt="Vivid Vector Skulduggery">
       </p>
+✨ JavaScript && TypeScript && Go 🪐
 </details>
       
 ```javascript
