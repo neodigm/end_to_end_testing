@@ -4,7 +4,7 @@
 
 Software Quality achieved through End to End testing, including responsive, API integration, visual regression, and smoke.
 
-I've invested a few days into aggressively exploiting this test runner to *stabilize and expand* test coverage.
+I've invested a few days into [aggressively exploiting](https://www.thescottkrause.com/tags/javascript/) this test runner to *stabilize and expand* test coverage.
 
 
 <details>
@@ -13,7 +13,7 @@ I've invested a few days into aggressively exploiting this test runner to *stabi
       <li>Automatically capture a video when a test fails</li>
       <li>Apply optional configuration files via the command line. This will allow us to change environments easily (requires v3.6)</li>
       <li>Test globals like system_output</li>
-      <li>Test values persisted in the <strong>Vuex [(Vue.js Vuex specific)](https://www.thescottkrause.com/tags/javascript/)</strong> store</li>
+      <li>Test values persisted in the <strong>Vuex (Vue.js Vuex specific)</strong> store</li>
       <li>Create custom reusable, and chainable commands, such as <strong>cy.signIn() or cy.turnOnFeature()</strong></li>
       <li>Test responsive layout behavior</li>
       <ol>
