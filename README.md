@@ -168,7 +168,8 @@ describe('E2E test | Hotel navigation, selection, and discovery', () => {
 [Twitter](https://twitter.com/neodigm55) |
 [Keybase](https://keybase.io/neodigm) |
 [Docker](https://hub.docker.com/u/neodigm) |
-[W3C](https://www.w3.org/users/123844)
+[W3C](https://www.w3.org/users/123844) |
+[InfoSec](https://arcanus55.medium.com/offline-vs-cloud-password-managers-51b1fbebe301)
 #
 
 <p align="center">
