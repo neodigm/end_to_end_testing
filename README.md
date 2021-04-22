@@ -33,7 +33,7 @@ I've invested a few days into [aggressively exploiting](https://www.thescottkrau
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Vivid Vector Skulduggery">
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Clockwork Clever Tricknology">
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Vivid Vector Skulduggery">
-        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="44" alt="Vivid Vector Skulduggery">
+        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="44" alt="Vivid Vector 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
       </p>
 ✨ JavaScript && TypeScript && Go 🪐
 </details>
