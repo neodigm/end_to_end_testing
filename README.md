@@ -28,7 +28,7 @@ I've invested a few days into [aggressively exploiting](https://www.thescottkrau
    </summary>
       <p align="center">
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvq.svg" width="44" alt="Clockwork Clever Tricknology">
-        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="44" alt="Vivid Vector Skulduggery">
+        <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvu.svg" width="44" alt="Vivid Vector Skulduggery 🚀 ">
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vva.svg" width="44" alt="Clockwork Clever Tricknology">
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvl.svg" width="44" alt="Three.js 🚀 TypeScript 🚀 WASM ✨ Go">
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvi.svg" width="44" alt="Clockwork Clever Tricknology">
