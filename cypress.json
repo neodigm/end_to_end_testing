@@ -7,7 +7,7 @@
     "pageLoadTimeout": 260000,
     "responseTimeout": 20000,
     "video": true,
-    "videoCompression": 32,
+    "videoCompression": 48,
     "videoUploadOnPasses": true,
     "pluginsFile": "cypress/plugins/index.js",
     "env": {
