@@ -1,4 +1,3 @@
-[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
 
 # [Ground Breaking End to End Testing](https://neodigm.github.io/end_to_end_testing/)
 
@@ -178,7 +177,6 @@ describe('E2E test | Hotel navigation, selection, and discovery', () => {
   </a>
 </p>
       
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/neodigm/vue_voyagers)
 <p align="center">
   <a target="_blank" href="https://www.thescottkrause.com">
     <img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="TypeScript ⚡ WASM ✨ NestJS">
