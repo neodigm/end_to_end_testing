@@ -34,6 +34,7 @@ I've invested a few days into [aggressively exploiting](https://www.thescottkrau
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvt.svg" width="44" alt="Vivid Vector Skulduggery">
         <img src="https://neodigm.github.io/vivid_vector_alphabet/wasm/vvy.svg" width="44" alt="Vivid Vector 🌑🌒🌓🌔🌕🌖🌗🌘🌑">
       </p>
+Infographics UX PWA Typescript Svelte ThreeJS Vue ✨
 ✨ JavaScript && TypeScript && Go 🪐
 </details>
       
