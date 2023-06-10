@@ -14,6 +14,7 @@ I've invested a few days into [aggressively exploiting](https://www.thescottkrau
       <li>Test globals like system_output</li>
       <li>Create custom reusable, and chainable commands, such as <strong>cy.signIn() or cy.turnOnFeature()</strong></li>
       <li>Test responsive layout behavior</li>
+	<li>Infographics UX PWA Typescript Svelte ThreeJS Vue ✨</li>
       <ol>
 </details>
 <details>
