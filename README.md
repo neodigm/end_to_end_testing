@@ -153,14 +153,13 @@ describe('E2E test | Hotel navigation, selection, and discovery', () => {
 })
 ```
 
-
 ---
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🌶️ Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2023.pdf) |
 [UX micro-library](https://thescottkrause.com/emerging_tech/neodigm55_ux_library/) |
 [PWA WASM](https://www.thescottkrause.com/emerging_tech/curated-pwa-links/) |
-[DevToys](https://www.thescottkrause.com/devtoys/) |
+[Web Tool Toys](https://www.webtooltoys.com/) |
 [Neodigm UX Wiki](https://github.com/arcanus55/neodigm55/wiki/Cheat-Sheet) | 
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
